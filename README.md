@@ -1,4 +1,5 @@
 # logo
+# thanks to pyimagesearch for alot of good tutorials
 logo_detection
 Requirements:
 - Python3
