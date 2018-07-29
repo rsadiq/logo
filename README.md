@@ -1,5 +1,4 @@
 # logo
-# thanks to pyimagesearch for alot of good tutorials
 logo_detection
 Requirements:
 - Python3
@@ -10,3 +9,4 @@ Requirements:
 how to run:
 write the following command in terminal(Linux) or command prompt(Windows) to run the detector
 python pepsi_logo_detector.py --testimage testimage.jpg
+# thanks to pyimagesearch for alot of good tutorials
