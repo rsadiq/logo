@@ -9,7 +9,7 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 
-(imgW, imgH) = (128, 128)
+(imgW, imgH) = (64, 64)
 
 
 def non_max_suppression_fast(boxes, overlapThresh):
